@@ -1,0 +1,18 @@
+{
+  "latest_version": "2.4.1",
+  "min_required_version": "2.4.0",
+  "yt_dlp_version": "2026.10.26",
+  "release_date": "2026-11-12",
+  "mandatory": false,
+  "release_notes": [
+    "إضافة تبويب جديد ومستقل لتحميل واستخراج الملفات الصوتية (MP3, M4A, WAV, FLAC, OPUS) بجودات تصل إلى 320 kbps.",
+    "توفير برنامج تثبيت رسمي متكامل لنظام ويندوز (Setup.exe) مع اختصارات سطح المكتب وقائمة ابدأ.",
+    "تحسين استقرار التبويبات المتزامنة والإيقاف الفوري وحماية الإغلاق عند وجود تحميل نشط.",
+    "ترقية محرك التنزيل yt-dlp إلى الإصدار 2026.10.26 لضمان أعلى توافق مع المنصات."
+  ],
+  "downloads": {
+    "windows": "https://github.com/ahmed-ali-2024/v_downloader_site/releases/latest/download/V_Downloader-Windows-Setup.exe",
+    "linux": "https://github.com/ahmed-ali-2024/v_downloader_site/releases/latest/download/V_Downloader-Linux-x64.tar.gz"
+  },
+  "site_url": "https://ahmed-ali-2024.github.io/v_downloader_site/"
+}
